@@ -1,0 +1,17 @@
+{
+  "name": "debug-utils",
+  "version": "1.0.0",
+  "description": "A set of utility functions for debugging",
+  "main": "index.js",
+  "private": false,
+  "keywords": ["debugging", "proxy"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arfedulov/debug-utils.git"
+  },
+  "author": {
+    "name": "Artem Fedulov",
+    "email": "arfedulov@gmail.com"
+  },
+  "license": "MIT"
+}
