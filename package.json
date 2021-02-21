@@ -1,5 +1,5 @@
 {
-  "name": "debug-utils-1",
+  "name": "@arfedulov/debug-utils",
   "version": "1.0.0",
   "description": "A set of utility functions for debugging",
   "main": "index.js",
